@@ -1,0 +1,1 @@
+FROM michilu/fedora-zero
